@@ -7,4 +7,5 @@ Though there exists other methods, one of the most common method for handwritten
 Therefore, a deep learning model which uses tensorflow was proposed to try and recognize the handwritten text and digitize it. 
 
 The dataset can be downloaded from: https://fki.tic.heia-fr.ch/databases/iam-handwriting-database
-You can have a better insight about my project through my Medium article: 
+
+You can have a better insight about my project through my Medium article: https://medium.com/@sabahat.shaik0708/handwriting-recognition-using-deep-learning-e1af56d63b38
